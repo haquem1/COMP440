@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Builds tables complete with all keys
+-- and constraints. Contains 17 tables for database
+-- =================================================
+
 CREATE PROCEDURE sp_initschema
 AS
 BEGIN

@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Selects presentations and their
+-- associated speakers based from database
+-- =================================================
+
 CREATE PROCEDURE [dbo].[selectPresAndSpeak]
 AS
 BEGIN TRY

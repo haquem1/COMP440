@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Inserts a presentation and the speaker
+-- associated with it into database
+-- =================================================
+
 CREATE PROCEDURE [dbo].[insertPresentation]
      @speaker NVARCHAR(80),
      @presentation VARCHAR(128)

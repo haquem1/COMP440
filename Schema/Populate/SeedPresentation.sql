@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Populates table based on data in
+-- Presentations Excel file
+-- =================================================
+
 CREATE PROCEDURE sp_seedpresentations
 AS
 BEGIN

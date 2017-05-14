@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Populates table based on data in
+-- Attendees_registration Excel file
+-- =================================================
+
 CREATE PROCEDURE sp_seedattendee
 AS
 BEGIN

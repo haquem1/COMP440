@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Populates table based on data in
+-- Events Excel file
+-- =================================================
+
 CREATE PROCEDURE sp_seedevents
 AS
 BEGIN

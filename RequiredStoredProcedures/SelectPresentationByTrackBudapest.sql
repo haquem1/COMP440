@@ -1,3 +1,9 @@
+-- =================================================
+-- Author:		Maroof Haque
+-- Description:	Selects presentations that are in
+-- Budapest organized by track
+-- =================================================
+
 CREATE PROCEDURE [dbo].[selectPresTrackBudapest]
 AS
 BEGIN TRY
